@@ -1,0 +1,21 @@
+.navbar {
+  background-color: #C28DCB;
+}
+
+.quem-somos, .servicos {
+  background-color: #F6DDFA;
+}
+
+.margin {
+  padding: 50px 0px 50px;
+}
+
+h3 {
+  margin-bottom: 50px;
+}
+
+.dev-footer {
+  padding: 30px;
+  background-color: #EEACF9 ;
+  font-size: 20px;
+}
